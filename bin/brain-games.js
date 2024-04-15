@@ -4,7 +4,7 @@ import greting from '../src/cli.js';
 
 console.log('Welcome to the Brain Games!')
 
-console.log('Hallo, ' + greting() + '!');
+console.log('Hello, ' + greting() + '!');
 
 
 
